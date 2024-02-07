@@ -1,0 +1,94 @@
+.left{
+display: flex;
+gap: 15px;
+
+}
+
+.right button {
+
+    border-radius: 20px;
+    height: 40px;
+    padding: 10px;
+    margin: 6px;
+    background-color: aqua;
+    width: 100px;
+}
+
+.right{
+    gap: 10px;
+display: flex;
+
+
+}
+
+.opshiy{
+    display: flex;
+
+    justify-content: space-around;
+    gap: 600px;
+}
+
+.obo{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+
+.left1 button {
+    background-color: aqua;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+}
+
+.hero{
+    top:-130px;
+    position: absolute;
+    background-color: #4B3F6B;
+    width: 1000px;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin:  70px 200px;
+}
+
+.hero input {
+    height: 40px;
+    width: 550px;
+    border-radius: 10px;
+}
+
+.hero button {
+    height: 40px;
+    border-radius: 10px;
+    width: 120px;
+}
+
+.top{
+    position: relative;
+   background-color: rgb(100, 39, 39);
+   height: 200px;
+   padding-top: 60px;
+   text-align: center;
+}
+.top h1 {
+    color: aliceblue;
+    
+}
+
+.top button {
+    background-color: aqua;
+    border-radius: 20px;
+    height: 40px;
+    width: 140px;
+}
+
+.down{
+    background-color: black;
+   display: flex;
+   color: white;
+   justify-content: space-around;
+
+}
